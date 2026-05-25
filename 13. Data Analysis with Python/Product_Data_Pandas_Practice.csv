@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Price,Quantity_Sold,Rating
+1,Laptop,Electronics,65000,15,
+2,Smartphone,Electronics,30000,40,4.3
+3,Tablet,Electronics,20000,,4.2
+4,Headphones,Accessories,2500,60,4.1
+5,Smartwatch,Wearables,15000,20,4.4
+6,Keyboard,Accessories,1200,70,4.0
+7,Mouse,Accessories,800,90,3.9
+8,Monitor,Electronics,18000,,4.3
+9,Printer,Electronics,9000,18,4.0
+10,Router,Networking,3500,35,4.1
+11,Webcam,Accessories,4000,45,4.2
+12,Microphone,Accessories,5500,28,4.3
+13,Speaker,Accessories,6000,32,4.4
+14,Power Bank,Accessories,2000,50,4.1
+15,Charger,Accessories,1800,55,4.0
+16,USB Cable,Accessories,500,100,
+17,Hard Drive,Storage,5500,22,4.2
+18,SSD,Storage,8500,26,4.5
+19,Graphics Card,Hardware,45000,10,4.6
+20,Processor,Hardware,32000,12,4.7

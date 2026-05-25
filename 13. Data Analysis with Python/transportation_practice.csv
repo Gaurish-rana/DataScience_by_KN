@@ -1,0 +1,12 @@
+Trip_ID,Date,Transport_Type,Route,Distance_km,Duration_min,Fare_INR,Passenger_Count
+T001,07-01-2025,Metro,Delhi-Ghaziabad,107,57,666,20
+T002,22-01-2025,Metro,Delhi-Ghaziabad,82,188,575,88
+T003,09-01-2025,Bus,Airport-Delhi,207,135,996,80
+T004,03-01-2025,Taxi,Delhi-Faridabad,8,210,777,34
+T005,05-01-2025,Bus,Delhi-Faridabad,15,194,900,291
+T006,21-01-2025,Train,Dwarka-Noida,268,148,1195,278
+T007,20-01-2025,Bus,Noida-Delhi,137,110,973,298
+T008,11-01-2025,Bus,Noida-Gurgaon,20,76,817,224
+T009,15-01-2025,Train,Airport-Delhi,167,97,1007,148
+T010,29-01-2025,Metro,Delhi-Ghaziabad,220,202,1013,35
+
